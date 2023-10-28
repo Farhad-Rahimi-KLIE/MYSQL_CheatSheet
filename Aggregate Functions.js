@@ -1,0 +1,1 @@
+Aggregate functions or multiple row functions work on multiple data and returns a single result
