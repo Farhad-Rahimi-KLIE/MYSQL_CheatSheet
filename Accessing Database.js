@@ -1,0 +1,1 @@
+These commands allow one to check all the databases and tables
