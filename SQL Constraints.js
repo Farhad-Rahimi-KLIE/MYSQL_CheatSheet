@@ -1,0 +1,1 @@
+SQL constraints are the rules or checks enforced on the data columns of a table
