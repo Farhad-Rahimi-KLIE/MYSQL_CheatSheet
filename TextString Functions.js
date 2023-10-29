@@ -1,0 +1,1 @@
+Text function work on strings
