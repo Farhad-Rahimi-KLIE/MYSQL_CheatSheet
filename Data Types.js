@@ -1,0 +1,1 @@
+Data types are means to identify the type of data.
