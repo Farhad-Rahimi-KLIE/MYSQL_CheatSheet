@@ -1,0 +1,1 @@
+It is defined as a collection of interrelated data stored together to serve multiple applications.
