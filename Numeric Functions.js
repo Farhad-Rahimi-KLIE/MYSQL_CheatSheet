@@ -1,0 +1,1 @@
+Numeric function works on numerical data and returns a single output
