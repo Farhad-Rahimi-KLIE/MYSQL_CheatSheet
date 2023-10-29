@@ -1,0 +1,1 @@
+If a column has no value, then it is said to be NULL
