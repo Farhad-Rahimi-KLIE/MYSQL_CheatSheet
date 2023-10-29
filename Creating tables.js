@@ -1,0 +1,1 @@
+These commands allow you to create the table in MySQL
