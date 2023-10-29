@@ -1,0 +1,1 @@
+MySQL has certain elements that play an important role in querying a database.
