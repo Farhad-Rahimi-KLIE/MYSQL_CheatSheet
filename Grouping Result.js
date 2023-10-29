@@ -1,0 +1,1 @@
+It is used to arrange identical data into groups so that aggregate functions can work on them
