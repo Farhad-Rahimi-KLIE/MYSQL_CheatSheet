@@ -1,0 +1,1 @@
+Order by clause is used to sort the data in ascending or descending order of specified column
