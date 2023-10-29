@@ -1,0 +1,1 @@
+A select query is used to fetch the data from the database
